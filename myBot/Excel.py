@@ -9,7 +9,7 @@ from openpyxl.utils import get_column_letter
 from openpyxl.styles import NamedStyle
 from datetime import datetime
 
-
+#
 # Rutas de los archivos de origen y destino
 archivo_origen = r'C:\Users\JuanVC\OneDrive - Ingenieria y Gestion Administrativa S.A.S\Documentos\Excel_officeTrack\wm_task 2.xlsx'
 archivo_destino_original = r'C:\Users\JuanVC\OneDrive - Ingenieria y Gestion Administrativa S.A.S\Documentos\Excel_officeTrack\llenadoDatos - copia.xlsx'
